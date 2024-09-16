@@ -1,0 +1,7 @@
+mallavial/node_modules
+type-restapi/node_modules
+
+# next.js
+mallavial/.next/
+
+type-restapi/dist
