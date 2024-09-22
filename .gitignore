@@ -2,6 +2,6 @@ mallavial/node_modules
 type-restapi/node_modules
 
 # next.js
-mallavial/.next/
+.next/
 
 type-restapi/dist
